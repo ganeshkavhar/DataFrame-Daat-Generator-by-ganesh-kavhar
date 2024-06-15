@@ -1,4 +1,4 @@
-# DataFrame-Daat-Generator-by-ganesh-kavhar
+# DataFrame-Data-Generator-by-ganesh-kavhar
 Small code practices to generate a good dummy data frames for PySpark Practices
 
 well as a data related profile we required a test data or such data frame which we can used to perform some operations here by we can used this script to 
